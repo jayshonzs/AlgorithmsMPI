@@ -1,1 +1,6 @@
+some algorithms implemented by MPI
+
+
 用MPI实现的kmeans和岭回归算法
+
+kmeans这样的算法其实在单机上用minibatch的方式可以处理很大规模的数据
